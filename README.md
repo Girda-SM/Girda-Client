@@ -1,2 +1,2 @@
 # Girda
-The best social media PWA
+Girda social media - Client
