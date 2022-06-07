@@ -8,8 +8,6 @@ body {
   height: 100%;
 }
 
-#headline {
-  display: "flex";
-  justify-content: center;
-  align-items: center;
+#root {
+  height: 100%;
 }

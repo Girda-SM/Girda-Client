@@ -5,10 +5,7 @@ import { Login } from "./pages/Login/Login";
 const App: FC = () => {
   return (
     <div className="App">
-      {/* <Login />
-      <div className="headline">
-        <div>Gilda</div>
-      </div> */}
+      <Login />
     </div>
   );
 };
